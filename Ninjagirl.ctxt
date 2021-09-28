@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Ninjagirl
+comment0.text=\n\ Write\ a\ description\ of\ class\ ninjagirl\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Ninjagirl()
+comment2.params=amount
+comment2.target=void\ increaseScore(int)
+comment3.params=amount
+comment3.target=void\ increaseLives(int)
+comment4.params=
+comment4.target=int\ getScore()
+comment5.params=
+comment5.target=int\ getLives()
+comment6.params=amount
+comment6.target=void\ touchingJack(int)
+comment7.params=
+comment7.target=boolean\ touchingPortal()
+comment8.params=
+comment8.target=void\ updateText()
+comment9.params=
+comment9.target=void\ act()
+numComments=10
