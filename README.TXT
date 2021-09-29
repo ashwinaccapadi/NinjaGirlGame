@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
+PROJECT TITLE: Ninjagirl Game
+PURPOSE OF PROJECT:Created game using java and added multiple types of actors and levels. Many data structures were utilized along with animation and gravity.
 VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+HOW TO PLAY: Use the arrows to move, press "w" to attack, avoid the enemies and spikes, collect all mushrooms for points, reach portals to get to next level. 
+AUTHORS: Ashwin Accapadi
